@@ -1,4 +1,4 @@
-## Layout of the SageMaker ModelBuild Project Template
+## Layout of the SageMaker ModelBuild Project Template 
 
 The template provides a starting point for bringing your SageMaker Pipeline development to production.
 
